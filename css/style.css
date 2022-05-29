@@ -99,7 +99,7 @@ body {
     height: 389px;
     background-color: #fff;
     border-radius: 50%;
-    background-image: url('../img/avatar.jpg');
+    background-image: url('../../img/avatar.jpg');
     background-repeat: no-repeat;
     background-position: center top -80px;
     border: 6px solid #fff;
